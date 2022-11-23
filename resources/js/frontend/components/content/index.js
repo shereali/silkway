@@ -1,0 +1,7 @@
+export{default as Thumbnail} from './Thumbnail.vue'
+export{default as BroadDetails} from './BroadDetails.vue'
+export{default as NoteOne} from './NoteOne.vue'
+export{default as PhotoSpecification} from './PhotoSpecification.vue'
+export{default as PhotoSpecificationText} from './PhotoSpecificationText.vue'
+export{default as ProcessTime} from './ProcessTime.vue'
+export{default as NoteTwo} from './NoteTwo.vue'

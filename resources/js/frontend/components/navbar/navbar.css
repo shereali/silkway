@@ -1,0 +1,17 @@
+.navbar__text{
+    font-family: var(--lato);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color:var(--text-color)
+
+}
+
+.navbar__text:hover{
+    color:var(--primary-color)
+}
+
+
+

@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin:0;
+    scroll-behavior: smooth;
+    color:var(--text-color)
+}
+
+body{
+    font-family: var(--lato);
+}
+
+.silkway__btn{
+    background-color: var(--primary-color);
+    font-family: var(--lato);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+}
+
+.silkway__primary__color{
+    color:val(--primary-color);
+}
+
+.title__text__primary__color{
+    color:var(--primary-color)
+}
+
+.silkway__bg__primary{
+    background: val(--primary-color);
+}
+.silkway__color__primary{
+  color:val(--primary-color);  
+}
+.silkway__bg__secondary{
+    background: val(--secondary-color);
+}
+.silkway__color__secondary{
+  color:val(--secondary-color);  
+}

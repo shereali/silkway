@@ -1,0 +1,51 @@
+.home__banner_section{  
+    /* height: 596px;    */
+    background: #4D4D4D;
+
+}
+
+.home__banner{
+    background-image: url('/public/assets/images/home/home-banner.png');
+    height: 90vh;
+    
+     
+    
+}
+
+@media only screen and (min-width:320px) and (max-width:768px) {
+    /* .home__banner {
+        object-fit: cover;
+        width: 100%;
+        height: 250px;
+    }  */
+}
+
+.home__banner__effect{
+    background-image: url('/public/assets/images/home/home-banner-effect.png');
+    
+    
+}
+
+.home__banner__big__text__section{
+    font-family:var(--raleway);
+    font-style: normal;
+    font-weight: 700;
+    /* font-size: 48px; */
+    /* line-height: 56px; */
+}
+
+.home__banner__big__text__section h1{
+    color:var(--pure-white)
+}
+
+.home__banner_paragraph_section{
+    font-family: var(--lato);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+/* .home__banner_paragraph_section p{
+    color:var(--pure-white);
+} */

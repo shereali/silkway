@@ -1,0 +1,10 @@
+.footer__headline_color{
+    color:var(--primary-color);
+    font-weight: 700;
+font-size: 20px;
+line-height: 156%;
+}
+
+.footer__text__font{
+    font-family: var(--lato);
+}
